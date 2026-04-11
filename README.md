@@ -1,16 +1,33 @@
-## Hi there 👋
+# Zihao Gong
 
-<!--
-**zihao-gong/zihao-gong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ph.D. Candidate in Finance** 
 
-Here are some ideas to get you started:
+📧 zihaogong2-c@my.cityu.edu.hk 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍🏫 About Me
+
+I am a 2nd year Ph.D. candidate in Finance at *City University of Hong Kong*. My research interests focus on **Financial Econometrics** and **Empirical Asset Pricing**. 
+
+---
+
+## 🎓 Education
+
+**M.S. in Finance** 
+  *University of International Business and Economics, 2024*
+
+**B.S. in Economics** 
+  *University of International Business and Economics, 2022*
+
+---
+
+## 🔬 Research Interests
+
+* **Financial Econometrics**
+* **Empirical Asset Pricing** 
+
+---
+
+## ⏳ Working Papers
+*(More updates coming soon!)*
