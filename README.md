@@ -8,7 +8,7 @@
 
 ## 👨‍🏫 About Me
 
-I am a 2nd year Ph.D. candidate in Finance at *City University of Hong Kong*. My research interests focus on **Financial Econometrics** and **Empirical Asset Pricing**. 
+I am a 3rd year Ph.D. candidate in Finance at *City University of Hong Kong*. My research interests focus on **Financial Econometrics** and **Empirical Asset Pricing**. 
 
 ---
 
@@ -30,4 +30,4 @@ I am a 2nd year Ph.D. candidate in Finance at *City University of Hong Kong*. My
 ---
 
 ## ⏳ Working Papers
-*(More updates coming soon!)*
+*Conditional Factor Model For Ragged Set Data*
